@@ -138,10 +138,20 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
         <sub><b>Shackmerferu</b></sub>
       </a>
       <br />
-      <sub>Games & Apps Developer</sub>
+      <sub>Fullstack & Games Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OctavioMF">
+        <img src="https://avatars.githubusercontent.com/u/162141615?v=4" width="100px;" alt="OctavioMF"/>
+        <br />
+        <sub><b>OctavioMF</b></sub>
+      </a>
+      <br />
+      <sub>FullStack Developer</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
