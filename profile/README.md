@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DouDev-SA">
-    <img src="https://github.com/user-attachments/assets/6e216fc4-5f7d-47f8-80af-fb2ca72f60c8" alt="DouDev S.A" width="400">
+    <img src="https://github.com/DouDev-SRL.png" alt="DouDev" width="400">
   </a>
   <br>
   <h3>Amigos y conocidos codeando porque pueden</h3>
@@ -31,10 +31,8 @@
 </div>
 
 <p align="center">
-  <a href="#proyectos-destacados">Proyectos Destacados</a> •
   <a href="#tecnologías">Tecnologías</a> •
   <a href="#miembros">Miembros</a> •
-  <a href="#contribuir">Contribuir</a>
 </p>
 
 ---
@@ -43,44 +41,6 @@
 
 DouDev es un colectivo de desarrolladores apasionados que colaboran en proyectos innovadores y divertidos. Nuestra filosofía se basa en crear soluciones tecnológicas mientras disfrutamos del proceso de desarrollo y aprendizaje continuo.
 
----
-
-## 📚 Proyectos Destacados
-
-### 🤖 Its Friday Bot
-
-**Its Friday Bot** es un bot para Twitter (X) que informa diariamente si es viernes o no.
-
-#### Características:
-
-- ⏰ **Notificación diaria**: Envía un mensaje todos los días a las 00:00
-- 🎉 **Mensaje de viernes**: Si es viernes, dirá: "Hoy es viernes"
-- 😔 **Mensaje regular**: Caso contrario, dirá: "Hoy no es viernes"
-
-#### Tecnologías utilizadas:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Repositorio**: [Its Friday Bot](https://github.com/DouDev-SA/Its_Friday_Bot)
-
----
-
-### 📺 Anime Libre
-
-**Anime Libre** es una aplicación para buscar animes de AnimeFLV desde la terminal o desde una interfaz gráfica (GUI).
-
-#### Características:
-
-- 🔍 **API AnimeFLV**: Encuentra animes, episodios y links de descarga desde AnimeFLV
-- 🕸️ **WebScrapping**: Obtiene el link de Stape, scrapea la URL para seleccionar el archivo `.mp4` y puede reproducirlo en VLC
-- 💾 **Descargas**: Obtiene el link de Mega, descarga el episodio y lo elimina al terminar de verlo
-- 🖥️ **GUI**: Interfaz gráfica en desarrollo
-
-#### Tecnologías utilizadas:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Repositorio**: [Anime Libre](https://github.com/DouDev-SA/animelibre)
-
----
 
 ## 🛠️ Tecnologías
 
@@ -152,21 +112,3 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
   </tr>
 </table>
 
-
----
-
-## 🤝 Contribuir
-
-Nos encantaría que te unas a nuestra comunidad. Si tienes ideas, sugerencias o quieres contribuir a alguno de nuestros proyectos, no dudes en:
-
-1. **Fork** el repositorio
-2. Crea una **rama** para tu característica (`git checkout -b feature/amazing-feature`)
-3. **Commit** tus cambios (`git commit -m 'Add some amazing feature'`)
-4. **Push** a la rama (`git push origin feature/amazing-feature`)
-5. Abre un **Pull Request**
-
----
-
-<div align="center">
-  <p>© 2025 Dou Community - Codeando con ❤️ y ☕</p>
-</div>
