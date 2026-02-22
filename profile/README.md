@@ -56,6 +56,7 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
 - **Python**: Lenguaje versátil para desarrollo backend y scripts
 - **Node.js**: Entorno de ejecución para JavaScript del lado del servidor
 - **C#/.NET**: Plataforma para desarrollo de aplicaciones empresariales
+- **Java**: Lenguaje versátil para desarrollo de aplicaciones empresariales
 
 ### DevOps & Infraestructura
 - **Docker**: Plataforma de contenedorización
