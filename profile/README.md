@@ -49,8 +49,9 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
 ### Frontend
 - **Angular**: Framework para aplicaciones web robustas y escalables
 - **HTML5/CSS3**: Estándares web para estructura y diseño
-- **JavaScript**: Lenguaje de programación para interactividad
+- **JavaScript/TypeScript**: Lenguaje de programación para interactividad
 - **Electron**: Framework para crear aplicaciones de escritorio multiplataforma
+- **React**: Framework para aplicaciones web robustas y escalables
 
 ### Backend
 - **Python**: Lenguaje versátil para desarrollo backend y scripts
